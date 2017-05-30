@@ -1,0 +1,8 @@
+{
+  "name": "presentation-virtual-reality",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages",
+    "animate.css": "^3.5.2"
+  }
+}
