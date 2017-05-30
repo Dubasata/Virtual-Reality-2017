@@ -1,0 +1,51 @@
+=======================
+INFORMASI UMUM
+
+Nama Kelompok : Dubasata
+Alamat Github : https://github.com/Dubasata/Virtual-Reality-2017.git
+Alamat Trello : https://trello.com/b/wNAUZIoU/virtual-reality
+Judul Topik   : Virtual-Reality-2017
+
+Anggota 1
+Nama : Tiartha Triagustinus Sitanggang
+Nim : 151112416
+
+Anggota 2
+Nama : Juangsyah Putra Nasution
+Nim :
+
+Anggota 3 
+
+Nama : Theresia F M Butarbutar
+Nim : 151111488
+
+=======================
+
+SPRINT
+------
+Sprint 1:
+30/5 - 31/5 
+Scrummaster : Tiartha (151112416)
+
+
+
+
+Progres Harian (Diupdate tiap Hari)
+-----------------------------------
+30/5 - 31/5 
+Daily Srum
+(TIARTHA):
+1. Hari ini saya melakukan pembuatan slide awal dan theme slide pada slide bespoke 
+2. Saya melakukan Push untuk pertama kali dan mengedit readme.md
+3. Saya mendapati kendala dalam penginstalan thema bespoke secara eksternal
+
+(JUANG):
+1. Hari ini saya melakukan clone pada repositori awal
+2. Saya menambahkan sejarah virtual reality pada slide 
+3. Memindahkan sprint "Mencari Informasi tentang sejarah vr" pada trello ke dalam card "DONE"
+
+(THERESIA):
+1. Hari ini saya melakukan clone pada repositori awal
+2. Mempelajari Pengeditan Slide
+3. 
+
