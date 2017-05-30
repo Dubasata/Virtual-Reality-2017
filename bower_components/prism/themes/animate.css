@@ -9,7 +9,7 @@
  */
 
 .animated {
-  animation-duration: 1s;
+  animation-duration: 3s;
   animation-fill-mode: both;
 }
 
@@ -25,8 +25,9 @@
 .animated.flipOutY,
 .animated.bounceIn,
 .animated.bounceOut {
-  animation-duration: .75s;
+  animation-duration: 10s;
 }
+.animated.bounceInLeft{animation-duration: :10s  ;}
 
 @keyframes bounce {
   from, 20%, 53%, 80%, to {
@@ -398,6 +399,7 @@
 
 .bounceInLeft {
   animation-name: bounceInLeft;
+
 }
 
 @keyframes bounceInRight {
