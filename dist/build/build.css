@@ -3529,8 +3529,8 @@ pre[class*="language-"] {
  * Copyright (c) 2017 Daniel Eden
  */
 h4 {
-  color: #f00;
-  text-align: left;
+  color: #00ffc6;
+  text-align: center;
 }
 h1 {
   font-size: 50px;
@@ -3551,6 +3551,7 @@ p {
   margin-left: 30px;
   margin-right: 30px;
   text-align: left;
+  color: #fff;
 }
 li {
   margin-left: 100px;
@@ -3802,4 +3803,91 @@ p.paragraf {
 .nope {
   text-decoration: line-through;
   opacity: 0.7;
+}
+.box2 {
+  position: relative;
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgba(0,0,0,0.6);
+}
+.box2 ul,
+.box2 ol {
+  margin: 12px 20px;
+  padding: 0;
+}
+.box2 li::before {
+  left: 0.5em;
+}
+.box2.wait-for-gif {
+  opacity: 0;
+}
+.box2.bottom {
+  bottom: 5%;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,0.8);
+}
+.box2.top {
+  top: -10%;
+  margin-top: 0;
+}
+.box2.left {
+  left: 10%;
+  margin-left: 0;
+}
+.box2.right {
+  right: 5%;
+  margin-right: 0;
+}
+.box2.transparent pre {
+  display: inline-block;
+}
+.kaka {
+  position: absolute;
+  bottom: 86.5%;
+  right: 28%;
+}
+.box3 {
+  position: absolute;
+  left: 55%;
+  top: 34.6%;
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgba(0,0,0,0.6);
+}
+.box3 .kaka {
+  right: 38%;
+}
+.box22 {
+  position: absolute;
+  left: 55%;
+  bottom: 5%;
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgba(0,0,0,0.6);
+}
+.box22 .kaka {
+  right: 27%;
+}
+.box4 {
+  position: absolute;
+  left: 10%;
+  bottom: 5%;
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgba(0,0,0,0.6);
+}
+.box4 .kaka {
+  left: 27%;
 }
