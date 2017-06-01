@@ -3528,6 +3528,10 @@ pre[class*="language-"] {
 
  * Copyright (c) 2017 Daniel Eden
  */
+h4 {
+  color: #f00;
+  text-align: left;
+}
 h1 {
   font-size: 50px;
   margin: 0 auto;

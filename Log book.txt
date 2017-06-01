@@ -58,12 +58,16 @@ Daily Scrum
 4. Mengubah style slide dan menambah isi slide
 
 (JUANGSYAH):
-1.
-2.
-3.
+1. Mengubah background pada slide sejarah vr
+2. membuat animasi pada slide vr
 
 (THERESIA)
 1.
 2.
 3.
 
+01/6
+Daily Scrum
+(JUANGSYAH)
+1. Menambahkan slide elemen vr
+2. Mengedit slide sejarah vr
