@@ -71,3 +71,11 @@ Daily Scrum
 (JUANGSYAH)
 1. Menambahkan slide elemen vr
 2. Mengedit slide sejarah vr
+3. Edit css slide elemen vr
+(TIARTHA):
+1. Edit opening side
+2. Penambahan efek css
+3. perbaikan efek css
+(THERESIA)
+1. Menambahkan slide alat-alat vr
+2. Update Alat-alat vr
