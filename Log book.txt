@@ -79,3 +79,13 @@ Daily Scrum
 (THERESIA)
 1. Menambahkan slide alat-alat vr
 2. Update Alat-alat vr
+
+02/6
+Daily Scrum
+(JUANGSYAH)
+1. Edit slide sejarah VR
+2. update log
+3. update trello
+(TIARTHA)
+1. pull data
+2. edit trello
