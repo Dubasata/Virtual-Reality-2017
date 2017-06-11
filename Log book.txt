@@ -27,6 +27,30 @@ Sprint 1:
 30/5 - 31/5 
 Scrummaster : Tiartha (151112416)
 
+Sprint 2:
+1/6 - 2/6 
+Scrummaster : Juangsyah (151112637)
+
+Sprint 3:
+3/6 - 4/6 
+Scrummaster : Theresia (151111448)
+
+Sprint 4:
+5/6 - 6/5 
+Scrummaster : Tiartha (151112416)
+
+Sprint 5:
+7/6 - 8/6 
+Scrummaster : Juangsyah (151112637)
+
+Sprint 3:
+9/6 - 10/6 
+Scrummaster : Theresia (151111448)
+
+Sprint 4:
+11/6 
+Scrummaster : Tiartha (151112416)
+
 
 
 
@@ -66,7 +90,7 @@ Daily Scrum
 2.
 3.
 
-01/6
+1/6 - 2/6 
 Daily Scrum
 (JUANGSYAH)
 1. Menambahkan slide elemen vr
@@ -76,11 +100,12 @@ Daily Scrum
 1. Edit opening side
 2. Penambahan efek css
 3. perbaikan efek css
+4. edit trello
 (THERESIA)
 1. Menambahkan slide alat-alat vr
 2. Update Alat-alat vr
 
-02/6
+2/6
 Daily Scrum
 (JUANGSYAH)
 1. Edit slide sejarah VR
@@ -89,3 +114,117 @@ Daily Scrum
 (TIARTHA)
 1. pull data
 2. edit trello
+
+(THERESIA)
+1. Pull data 
+2.
+
+3/6 - 4/6 
+Daily Scrum 
+(Tiartha)
+1. Pull Data 
+2.
+(Juang)
+1. Menambahkan Slide cara kerja vr
+2. Edit trello
+(Theresia)
+1. Pull data
+2
+
+4/6
+(Tiartha)
+1. Pull data
+2. Edit Burn Down Chart
+(Juang)
+1. Push Burn Down Chart
+2.
+(Theresia)
+1. Pull data
+2.
+
+5/6-6/6
+(Tiartha)
+1. Edit trello
+2. Pull data
+(Juang)
+1. Edit css cara kerja vr
+2.
+(Theresia)
+1. Pull data
+2.
+
+6/6
+(Tiartha)
+1.
+2.
+(Juang)
+1.
+2.
+(Theresia)
+1.
+2.
+
+7/6-8/6
+(Tiartha)
+1. Menambahkan Slide Software
+2. 
+(juang)
+1.Pull data
+2.
+(Theresia)
+1.Pull data
+2.
+
+8/6
+(Tiartha)
+1.
+2.
+(juang)
+1.
+2.
+(Theresia)
+1.
+2.
+
+9/6-10/6
+(Tiartha)
+1. Edit trello
+2. pull data
+(Juang)
+1.Edit slide kelebihan vr
+2.
+(Theresia)
+1. pull data
+2.
+
+10/6
+(Tiartha)
+1. Update Log book
+2. edit burn down chart
+3. 
+
+(juang)
+1. Perbaikan Index.jade
+2.
+
+(theresia)
+1.
+2.
+
+11/6
+(Tiartha)
+1. Pull data 
+2. Update Log book
+3. edit burn down chart
+4. Perbaikan css , seluruh slide
+5. menambahkan slide Virtual Reality Di masa depan
+
+(juang)
+1. Menambahkan efek negatif dan penerapan vr
+2. 
+
+(theresia)
+1. Menambahkan Alat-alat vr
+2. Perbaikan css alat2 vr
+
+
